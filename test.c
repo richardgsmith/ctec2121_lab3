@@ -3,7 +3,7 @@
 
 int main (void)
 {
-	int x=3;
+	int x=10;
 	int y=5;
 	
 	printf("Please enter an integer value for x\n");
