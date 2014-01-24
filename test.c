@@ -4,7 +4,7 @@
 int main (void)
 {
 	int x=10;
-	int y=20;
+	int y=25;
 	
 	printf("Please enter an integer value for x\n");
 	scanf("%d");
