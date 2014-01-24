@@ -7,6 +7,7 @@ int main (void)
 	int y=25;
 	
 	//This is the branch 2
+	// on the master
 	printf("Please enter an integer value for x\n");
 	scanf("%d");
 	if (!x)
