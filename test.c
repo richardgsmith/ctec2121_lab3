@@ -6,6 +6,7 @@ int main (void)
 	int x=10;
 	int y=25;
 	
+	//This is the master
 	printf("Please enter an integer value for x\n");
 	scanf("%d");
 	if (!x)
