@@ -23,6 +23,7 @@ int main (void)
 		default: x+=10;
 	}
 	printf("%d \n",x);
+	printf("whistling along\n");
 		return 0;	
 }
 
