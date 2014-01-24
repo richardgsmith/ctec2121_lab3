@@ -1,4 +1,4 @@
-
+/* This is the conflict branch */
 #include <stdio.h>
 
 int main (void)
